@@ -1,1 +1,1 @@
-Udacit First Gazebo project
+Udacity First Gazebo project
